@@ -1317,7 +1317,7 @@ background-position: 0 -70px;
 
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(ps4-white-assets/base.svgz);
+    background-image: url(https://github.com/phantomXD/publicRepository/blob/master/base_%EC%99%84%EB%A3%8C.svg);
 }
 
 .ds4.white.disconnected {
